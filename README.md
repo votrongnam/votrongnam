@@ -1,87 +1,44 @@
 <div align="center">
-  <!-- BANNER NEON ĐẬM CHẤT HACKER & NGHỆ THUẬT -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,6,12,24&height=220&section=header&text=HAI%20NGUYEN&fontSize=56&fontAlignY=36&animation=twinkling&desc=%E2%8C%A7%20CYBERNETIC%20SYSTEMS%20ARCHITECT%20%E2%8C%A7%20AI%20SYSTEMS%20FOUNDER%20%E2%8C%A7&descSize=14&descAlignY=58&descAlign=50&fontColor=00FFFF&stroke=FF007F&strokeWidth=1" width="100%" />
 
-  <!-- DYNAMIC NEON TYPING HUD CHẠY LIÊN TỤC -->
+  <!-- BANNER CẦU VỒNG NEON TWINKLING -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,10,14,18,22,26,30&height=230&section=header&text=🌸%20VTN%20DEV%20✨&fontSize=60&fontAlignY=36&animation=twinkling&desc=⭐%20CEO%20CỦA%2010%20PROJECTS%201%20STAR%20%2F%2F%20FULL-STACK%20OVERTHINKER%20⭐&descSize=14&descAlignY=58&descAlign=50&fontColor=ffffff&stroke=FF007F&strokeWidth=2" width="100%" />
+
+  <!-- DÒNG TYPING TỰ ĐỘNG CHẠY HÀI HƯỚC & ĐẬM CHẤT CODE -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&width=700&height=85&lines=%E2%96%B6+BOOTING+NEURAL+AGENTIC+MESH...;%E2%96%B6+ORCHESTRATING+LOCAL-FIRST+CRDT+SYSTEMS;%E2%96%B6+KERNEL+DECRYPTED+%7C%7C+HIGH-PERFORMANCE+INFRASTRUCTURE;%E2%96%B6+STATUS%3A+OVERCLOCKED+%26+READY+TO+DEPLOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&duration=3000&pause=800&color=FF007F,00F0FF,39FF14,FFE600&center=true&vCenter=true&multiline=true&width=750&height=95&lines=⭐+10+REPOS+ĐỀU+CÓ+1+STAR+(CHẮC+CHẮN+KHÔNG+PHẢI+TỰ+STAR);🚀+VTN_CORE+ONLINE:+SẴN+SÀNG+BIẾN+BUG+THÀNH+FEATURE;🌸+ĐANG+DỰNG+WEBSITE+PORTFOLIO+14+POPUP+HIỆU+ỨNG;☕+Coffee+in,+Chaos+out.+Hệ+thống+chạy+nhờ+phép+thuật!" alt="Typing SVG" />
   </a>
 
-  <!-- RETRO CYBER METRICS BADGES VỪA ĐẸP VỪA CÓ Ý NGHĨA -->
+  <br/>
+
+  <!-- DÀN BADGE FLEX KỶ LỤC 10 REPO 1 SAO -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00ffff?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/SECURITY-KERNEL%20DECRYPTED-ff007f?style=for-the-badge&logo=hackthebox&logoColor=white" />
-    <img src="https://img.shields.io/badge/CLEARANCE-ROOT%20ACCESS-39ff14?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+    <img src="https://img.shields.io/badge/⭐_STAR_RATIO-10_REPOS_%2F_1_STAR-FFE600?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/🛡️_QUALITY-BALANCED_AS_F*CK-FF1493?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_PORTFOLIO-14_EFFECTS_COOKING-00F0FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🔋_CONFIDENCE-MAX_LEVEL-39FF14?style=for-the-badge&labelColor=black" />
   </p>
 
-  <!-- BỘ ĐẾM LƯỢT TRUY CẬP ĐỘC ĐÁO -->
+  <!-- NÚT LINK SANG KHÔNG GIAN 14 HIỆU ỨNG (GITHUB PAGES) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hainguyen011&style=cyberpunk&color=00ffff" alt="Visitor Count" />
+    <a href="https://YOUR_GITHUB_USERNAME.github.io">
+      <img src="https://img.shields.io/badge/🌐_ENTER_VTN_INTERACTIVE_SPACE_(14_MODES)-FF007F?style=for-the-badge&logo=electron&logoColor=white" />
+    </a>
   </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff007f" alt="Visitor Counter" />
+  </p>
+
 </div>
 
 ---
 
-### 🌐 Terminal Activity Matrix
+### 💻 `$ cat /vtn/stats.json`
 
-<!-- BIỂU ĐỒ HOẠT ĐỘNG KIỂU SÓNG ÂM NHỊP TIM -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hainguyen011&theme=tokyo-night&color=00ffff&line=ff007f&point=39ff14&area=true&hide_border=false&border_color=00ffff&radius=12" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-### ⚡ Core Analytics & Neon Stream
-
-<!-- CÁC CARD THỐNG KÊ, STREAK, DONUT CHART ĐỀU ĐƯỢC ÉP VIỀN NEON -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hainguyen011&show_icons=true&theme=tokyonight&hide_border=false&border_color=00ffff&border_radius=12&bg_color=05050d&title_color=00ffff&icon_color=ff007f&text_color=e0e0e0&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hainguyen011&theme=tokyonight&hide_border=false&border_color=ff007f&border_radius=12&background=05050d&stroke=ff007f&ring=00ffff&fire=39ff14&currStreakLabel=00ffff" height="180" alt="GitHub Streak" />
-</p>
-
-<!-- DONUT CHART HIỂN THỊ CÁC NGÔN NGỮ LẬP TRÌNH CHÍNH -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hainguyen011&layout=donut&theme=tokyonight&hide_border=false&border_color=39ff14&border_radius=12&bg_color=05050d&title_color=39ff14&text_color=e0e0e0" height="205" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Achievement Protocol
-
-<!-- CÁC HUY HIỆU CÚP VÀNG, CÚP BẠC SẼ LẤP LÁNH Ở GIỮA TRANG -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hainguyen011&theme=radical&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🛠️ Hardware & Cyber Arsenal
-
-<!-- TECH STACK VỚI 7 ICON MỖI DÒNG ĐỂ ĐẢM BẢO CÂN ĐỐI -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,ts,cpp,fastapi,docker,kubernetes,linux,mongodb,firebase,git,github,postman,vscode&perline=7" alt="Tech Arsenal" />
-  </a>
-</p>
-
----
-
-### 📡 Uplink & Signal Frequency
-
-<!-- CÁC HUY HIỆU LIÊN HỆ ĐƯỢC TÙY CHỈNH VỚI MÀU SẮC ĐẶC TRƯNG -->
-<div align="center">
-  <a href="https://github.com/hainguyen011">
-    <img src="https://img.shields.io/badge/GITHUB-ACCESS%20NODE-181717?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH%20LINK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="mailto:contact@domain.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED%20MAIL-DISPATCH%20DATA-EA4335?style=for-the-badge&logo=gmail&logoColor=ff007f&labelColor=000000" />
-  </a>
-</div>
-
-<p align="center">
-  <!-- BANNER NEON CHÂN TRANG ĐỂ KẾT THÚC ẤN TƯỢNG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,8,2,0&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
+```json
+{
+  "developer": "VTN DEV",
+  "superpower": "Build 10 repos, maintain 1 star consistently",
+  "quality_assurance": "Zero issues reported (because no one uses it yet)",
+  "upcoming": "Interactive 3D Web with 14 switchable neon & matrix themes"
+}
