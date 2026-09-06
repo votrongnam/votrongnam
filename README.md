@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- ==================== 1. SIÊU BANNER CẦU VỒNG 30 SẮC THÁI ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=300&section=header&text=🌸%20VTN%20DEV%20✨&fontSize=72&fontAlignY=35&animation=twinkling&desc=🌌%20ĐẠI%20ĐẾ%20BẺ%20KHÓA%20VŨ%20TRỤ%20%2F%2F%20CHỦ%20TỊCH%20HỘI%20ĐỒNG%20TỰ%20STAR%20TOÀN%20CẦU%20⭐&descSize=15&descAlignY=56&descAlign=50&fontColor=ffffff&stroke=FF007F&strokeWidth=2" width="100%" />
+  <!-- ==================== SIÊU BANNER CẦU VỒNG 30 SẮC THÁI ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=300&section=header&text=🌸%20VTN%20DEV%20✨&fontSize=70&fontAlignY=35&animation=twinkling&desc=🌌%20VÕ%20TRỌNG%20NAM%20%2F%2F%20CHỦ%20TỊCH%20HỘI%20ĐỒNG%20TỰ%20STAR%20TOÀN%20CẦU%20⭐&descSize=15&descAlignY=56&descAlign=50&fontColor=ffffff&stroke=FF007F&strokeWidth=2" width="100%" />
 
-  <!-- ==================== 2. DÒNG CHỮ GÕ TERMINAL PHÁT SÁNG ==================== -->
+  <!-- ==================== DÒNG TYPING ĐA SẮC ĐỘNG ==================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&duration=2200&pause=400&color=FF007F,00F0FF,39FF14,FFE600,FF5722,DA70D6&center=true&vCenter=true&multiline=true&width=920&height=120&lines=🌸+CHÀO+MỪNG+ĐẾN+VỚI+LÃNH+ĐỊA+VÔ+CỰC+CỦA+VTN+DEV;⭐+KỶ+LỤC+GUINNESS:+10+DỰ+ÁN+-+10+SAO+DO+CHÍNH+MÌNH+TỰ+BẤM;🚀+PHÁT+MINH+RA+THUẬT+TOÁN+SƯỞI+ẤM+PHÒNG+BẰNG+VÒNG+LẶP+VÔ+TẬN;💻+HACK+NASA+BẰNG+HTML+VÀ+TỰ+TẢI+THÊM+128GB+RAM+MIỄN+PHÍ;🐛+ĐÃ+FIX+THÀNH+CÔNG+0+BUG+VÀ+TẠO+RA+THÊM+999+BUG+MÀU+MÈ;☕+BỘ+GEN+GỒM+70%25+CÀ+PHÊ,+20%25+MỲ+TÔM+VÀ+10%25+NIỀM+TIN+HOANG+ĐƯỜNG!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2200&pause=400&color=FF007F,00F0FF,39FF14,FFE600,FF5722,DA70D6&center=true&vCenter=true&multiline=true&width=880&height=115&lines=🌸+CHÀO+MỪNG+ĐẾN+VỚI+LÃNH+ĐỊA+VÔ+CỰC+CỦA+VÕ+TRỌNG+NAM+(VTN+DEV);⭐+KỶ+LỤC+GUINNESS:+10+DỰ+ÁN+-+10+SAO+DO+CHÍNH+MÌNH+TỰ+BẤM;🚀+PHÁT+MINH+RA+THUẬT+TOÁN+SƯỞI+ẤM+PHÒNG+BẰNG+VÒNG+LẶP+WHILE+TRUE;💻+HACK+NASA+BẰNG+HTML+VÀ+TỰ+TẢI+THÊM+128GB+RAM+MIỄN+PHÍ;🐛+ĐÃ+FIX+THÀNH+CÔNG+0+BUG+VÀ+TẠO+RA+THÊM+999+BUG+MÀU+MÈ;☕+BỘ+GEN+GỒM+70%25+CÀ+PHÊ,+20%25+MỲ+TÔM+VÀ+10%25+NIỀM+TIN+HOANG+ĐƯỜNG!" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- ==================== 3. RỪNG HUY HIỆU BẢY SẮC ==================== -->
+  <!-- ==================== RỪNG HUY HIỆU HOA LÁ HẸ ==================== -->
   <p align="center">
     <img src="https://img.shields.io/badge/⭐_STAR_AUDIT-10_REPOS_%2F_10_SELF_STARS-FFE600?style=for-the-badge&logo=apachespark&logoColor=black" />
     <img src="https://img.shields.io/badge/👑_ROLE-ĐẠI_SỨ_TỰ_LUYẾN_QUỐC_TẾ-FF1493?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-    <img src="https://img.shields.io/badge/🛡️_GIT_RULE-PUSH_FORCE_TO_MAIN-FF4500?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/🛡️_GIT_RULE-GIT_PUSH_--FORCE_MAIN-FF4500?style=for-the-badge&logo=git&logoColor=white" />
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/⚡_PORTFOLIO-14_MODES_ULTRA_POPUP-00F0FF?style=for-the-badge&logo=electron&logoColor=black" />
@@ -28,36 +28,36 @@
     <img src="https://img.shields.io/badge/🌐_SERVER-MÁY_TÍNH_CASIO_FX580-orange?style=for-the-badge&logo=serverfault&logoColor=white" />
   </p>
 
-  <!-- NÚT TRUY CẬP TRANG 14 HIỆU ỨNG GITHUB PAGES -->
+  <!-- NÚT TRUY CẬP GITHUB PAGES -->
   <p align="center">
-    <a href="https://YOUR_GITHUB_USERNAME.github.io">
+    <a href="https://votrongnam.github.io">
       <img src="https://img.shields.io/badge/🚀_KHỞI_CHẠY_VTN_QUANTUM_SPACE_(14_MODES_POPUP)-FF007F?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
     </a>
   </p>
 
   <!-- BỘ ĐẾM LƯỢT TRUY CẬP -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff007f" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=votrongnam&style=for-the-badge&color=ff007f" alt="Visitor Counter" />
   </p>
 
 </div>
 
 ---
 
-### 📜 TIỂU SỬ HUYỀN THOẠI CỦA VTN DEV (CHƯA QUA KIỂM DUYỆT)
+### 📜 TIỂU SỬ HUYỀN THOẠI CỦA VTN DEV (VÕ TRỌNG NAM)
 
-* 👶 **Năm 3 tuổi:** Bắt đầu học đếm nhị phân `0` và `1` bằng kẹo mút, từ chối giao tiếp bằng ngôn ngữ loài người.
-* 🖱️ **Năm 7 tuổi:** Bị phụ huynh phạt úp mặt vào tường vì tháo chuột bi ra làm bi ve chơi bắn bi ngoài xóm.
-* ❄️ **Năm 12 tuổi:** Phát minh ra thuật toán sưởi ấm phòng ngủ mùa đông bằng cách chạy vòng lặp vô tận `while True: pass` trên laptop cùi bắp.
-* 🏆 **Năm 16 tuổi:** Tạo 10 repos đầu tay, tự bấm 10 ngôi sao và thành lập *Công ty TNHH Một Mình Tao Star*.
-* 🌌 **Hiện tại:** Kiến trúc sư hệ thống đa vũ trụ, người thử nghiệm giới hạn chịu đựng của Google Chrome với 120 tab hoạt động đồng thời.
+* 👶 **Năm 3 tuổi:** Học đếm nhị phân `0` và `1` bằng kẹo mút, từ chối giao tiếp bằng ngôn ngữ loài người.
+* 🖱️ **Năm 7 tuổi:** Bị phạt vì tháo viên bi trong chuột máy tính ra làm bi ve chơi ngoài sân xóm.
+* ❄️ **Năm 12 tuổi:** Phát minh thuật toán sưởi ấm phòng ngủ mùa đông bằng cách chạy vô tận `while True: pass` trên laptop.
+* 🏆 **Năm 16 tuổi:** Tự tạo 10 repositories đầu đời, tự bấm 10 ngôi sao và thành lập công ty TNHH Một Mình Tao Star.
+* 🌌 **Hiện tại:** Kiến trúc sư hệ thống vũ trụ, người thử nghiệm độ bền của Chrome với 120 tab hoạt động đồng thời.
 
 ---
 
 ### 🧬 `$ systemctl status vtn-god-mode.service`
 
 ```yaml
-● vtn-god-mode.service - Siêu Trí Tuệ Tối Cao Của VTN DEV
+● vtn-god-mode.service - Siêu Trí Tuệ Tối Cao Của Võ Trọng Nam
    Loaded: loaded (/etc/systemd/system/vtn-core.service; enabled; auto-start on coffee)
    Active: active (hyper-overclocked) since the big bang
  Main PID: 999999 (legendary-coder)
@@ -73,7 +73,7 @@
 
 ---
 
-### 🌟 BẢNG PHONG THẦN: 15 DỰ ÁN ĐỊA CHẤN VŨ TRỤ
+### 🌟 BẢNG PHONG THẦN: 15 DỰ ÁN ĐỊA CHẤN VŨ TRỤ CỦA VTN DEV
 
 | STT | Tên Repository | Công Nghệ Lõi | Số Sao | Người Tặng | Đánh Giá Trung Thực Của Tác Giả |
 | :---: | :--- | :---: | :---: | :---: | :--- |
@@ -97,25 +97,25 @@
 
 ### 📜 15 BỘ LUẬT BẤT THÀNH VĂN CỦA PHÁI CODE VTN DEV
 
-1. 💖 **Yêu bản thân là vô địch:** Không ai star thì mình tự star. Ngôi sao do mình bấm mới là ngôi sao chân thành nhất.
+1. 💖 **Yêu bản thân là vô địch:** Không ai star thì mình tự star. Ngôi sao do mình bấm mới là ngôi sao chân thực nhất.
 2. ⚡ **Commit thẳng lên nhánh `main`:** Tạo nhánh `develop` với `pull request` là biểu hiện của sự chần chừ.
-3. 🔨 **Giải quyết xung đột bằng bạo lực:** Khi gặp conflict, giải pháp nhanh nhất và thanh lịch nhất là xóa cả thư mục rồi `git clone` lại.
+3. 🔨 **Giải quyết xung đột bằng bạo lực:** Khi gặp conflict, xóa cả thư mục rồi `git clone` lại là cách nhanh nhất.
 4. 🧪 **Tester chính là người dùng:** Viết unit test là hành vi thiếu tôn trọng khả năng sinh tồn của người dùng.
-5. 🌈 **Màu mè là sức mạnh:** Code có thể chạy sai, nhưng giao diện hiển thị phải rực rỡ như một dàn pháo hoa mừng năm mới.
+5. 🌈 **Màu mè là sức mạnh:** Code có thể chạy sai, nhưng giao diện hiển thị phải rực rỡ như dàn pháo hoa giao thừa.
 6. 🏺 **Không bao giờ xóa code cũ:** Hãy biến nó thành comment để 10 năm sau đọc lại và tự hỏi ngày xưa mình viết cái gì.
 7. 🔥 **Luật 100 tab Chrome:** Đóng tab là một tội ác. Phải mở ít nhất 100 tab để giữ cho máy tính luôn ấm áp.
 8. ☕ **Quy luật bảo toàn năng lượng:** Cà phê không tự sinh ra cũng không tự mất đi, nó chỉ chuyển hóa thành code có bug.
 9. 🎭 **Bug là nghệ thuật:** Nếu chương trình văng lỗi bất thình lình, hãy giải thích đó là "tính năng bảo mật ngẫu nhiên".
 10. 🚀 **Tự tin là chìa khóa:** Kỹ năng có thể ở mức trung bình, nhưng độ tự tin phải luôn đạt ngưỡng 9999%.
 11. 🕶️ **Giao diện chói lóa:** Một profile GitHub tốt là profile khiến người xem phải giảm độ sáng màn hình xuống 20%.
-12. 🌙 **Không sửa lỗi lúc 2 giờ sáng:** Vì lúc đó bạn sẽ biến 1 con bug nhỏ thành một bầy gồm 18 con bug đột biến gen.
+12. 🌙 **Không sửa lỗi lúc 2 giờ sáng:** Vì lúc đó bạn sẽ biến 1 con bug nhỏ thành một đàn gồm 18 con bug đột biến gen.
 13. 📖 **Documentation là chuyện phù phiếm:** Code tốt là code tự giải thích được chính nó, ai không hiểu chứng tỏ chưa đủ duyên.
 14. 👑 **HTML là ngôn ngữ lập trình mạnh nhất:** Ai phản đối thì viết chương trình in ra giao diện tím lấp lánh như này đi rồi nói chuyện.
 15. 📜 **Dài nữa, dài mãi:** Đã mất công làm trang profile cá nhân thì người xem phải kéo chuột mỏi tay mới hết trang!
 
 ---
 
-### 🏆 BẢNG VÀNG DANH HIỆU & CHỨNG CHỈ BỊA ĐẶT CẤP LIÊN HÀNH TINH
+### 🏆 BẢNG VÀNG DANH HIỆU & CHỨNG CHỈ CẤP LIÊN HÀNH TINH
 
 <p align="center">
   <img src="https://img.shields.io/badge/CHỨNG_CHỈ-TIẾN_SĨ_CÃI_NHAU_VỚI_COMPILER-FF007F?style=for-the-badge&logo=codeforces" />
@@ -163,7 +163,7 @@
   <p align="center">
     <b>Danh sách hiệu ứng:</b> 🎆 Pháo hoa chúc mừng 1 star, 🌠 Sao băng vụt qua, 🌊 Sóng âm sàn nhảy disco, 🧼 Bong bóng xà phòng vỡ tung, ❄️ Tuyết rơi mùa đông, 🕳️ Hố đen nuốt chửng RAM, 💡 Đom đóm đêm hè, ⚡ Đèn Laser quẩy bar, 📺 TV cổ thập niên 80 nhiễu hạt, và 🌌 Cực quang Bắc Cực.
     <br/><br/>
-    👉 <a href="https://YOUR_GITHUB_USERNAME.github.io"><b>BẤM VÀO ĐÂY ĐỂ TRẢI NGHIỆM ĐỦ 14 HIỆU ỨNG TƯƠNG TÁC THẬT TRÊN WEB!</b></a>
+    👉 <a href="https://votrongnam.github.io"><b>BẤM VÀO ĐÂY ĐỂ TRẢI NGHIỆM ĐỦ 14 HIỆU ỨNG TƯƠNG TÁC THẬT TRÊN WEB!</b></a>
   </p>
 </details>
 
@@ -172,7 +172,7 @@
 ### 🌊 SÓNG XUNG KÍCH HOẠT ĐỘNG VŨ TRỤ (RADICAL PULSE)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&color=00ffff&line=ff007f&point=ffe600&area=true&hide_border=false&border_color=ff007f&radius=20" width="100%" alt="Activity Matrix" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=votrongnam&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Matrix" />
 </p>
 
 ---
@@ -180,20 +180,20 @@
 ### 📊 TRUNG TÂM PHÂN TÍCH CHỈ SỐ BẢY SẮC CẦU VỒNG
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=false&border_color=00ffff&border_radius=20&title_color=ff007f&icon_color=ffe600&text_color=ffffff&count_private=true&include_all_commits=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&border_color=39ff14&border_radius=20&stroke=ff007f&ring=00ffff&fire=ff007f&currStreakLabel=39ff14" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=votrongnam&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votrongnam&theme=radical&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=radical&hide_border=false&border_color=ffe600&border_radius=20&title_color=39ff14&text_color=ffffff" height="225" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votrongnam&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 ĐẤU TRƯỜNG CÚP HOÀNG GIA (JUICY FRESH EDITION)
+### 🏆 ĐẤU TRƯỜNG CÚP HOÀNG GIA (RADICAL TROPHY)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=votrongnam&theme=radical&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -258,14 +258,6 @@ Số lần bấm nút Save:        [██████████████�
 
 ---
 
-### 🎮 CON RẮN GẶM COMMIT (SNAKE CONTRIBUTIONS)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
-
----
-
 ### ❓ FAQ - HỎI XOÁY ĐÁP XOAY VỀ HUYỀN THOẠI VTN DEV
 
 > **H: Tại sao lại tự star cả 10 repo mà không rủ bạn bè star hộ?**  
@@ -290,10 +282,10 @@ Số lần bấm nút Save:        [██████████████�
 
 ---
 
-### 📬 ĐƯỜNG DÂY NÓNG KẾT NỐI TRỰC TIẾP TỚI VTN DEV
+### 📬 ĐƯỜNG DÂY NÓNG KẾT NỐI TRỰC TIẾP TỚI VÕ TRỌNG NAM
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/votrongnam">
     <img src="https://img.shields.io/badge/GITHUB-VTN_DEV_CHÍNH_CHỦ-FF007F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://facebook.com">
@@ -306,7 +298,7 @@ Số lần bấm nút Save:        [██████████████�
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-HỢP_TÁC_DỰ_ÁN_TỰ_STAR_THỨ_11-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://YOUR_GITHUB_USERNAME.github.io">
+  <a href="https://votrongnam.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-TRẢI_NGHIỆM_14_HIỆU_ỨNG_POPUP-FFE600?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 </div>
@@ -314,6 +306,6 @@ Số lần bấm nút Save:        [██████████████�
 <br/>
 
 <p align="center">
-  <!-- ==================== SÓNG CẦU VỒNG KẾT THÚC SIÊU CẤP ==================== -->
+  <!-- ==================== SÓNG CẦU VỒNG KẾT THÚC ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=footer&animation=twinkling" width="100%" />
 </p>
